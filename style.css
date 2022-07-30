@@ -1,0 +1,24 @@
+* {
+    font-family: 'DejaVu Sans Mono', monospace 
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.top-bar {
+    background-color: #f1ffe8;
+}
+
+.back-button
+h1 {
+    color: black;
+    font-family: 'Marker Felt', fantasy;
+}
+
+.description {
+    position: absolute;
+    left:420px;
+    top:87px;
+}
