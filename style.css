@@ -31,3 +31,13 @@ ol,
 ul {
     color: #444444;
 }
+
+#third-image {
+    position: absolute;
+    right: 9px;
+}
+
+#second-image {
+    position:absolute;
+    left: 425px
+}
