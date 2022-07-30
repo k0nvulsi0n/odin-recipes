@@ -3,6 +3,7 @@
 }
 
 img {
+    border: 5px double black;
     height: auto;
     width: 400px;
 }
@@ -11,14 +12,22 @@ img {
     background-color: #f1ffe8;
 }
 
-.back-button
+.return-button,
 h1 {
-    color: black;
     font-family: 'Marker Felt', fantasy;
 }
 
 .description {
     position: absolute;
-    left:420px;
+    left:425px;
     top:87px;
+}
+
+hr {
+    border-top: 2px solid #788074
+}
+
+ol,
+ul {
+    color: #444444;
 }
