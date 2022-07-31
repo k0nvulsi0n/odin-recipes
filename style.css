@@ -15,6 +15,7 @@ img {
 .return-button,
 h1 {
     font-family: 'Marker Felt', fantasy;
+    margin-left:5px
 }
 
 .description {
@@ -40,4 +41,8 @@ ul {
 #second-image {
     position:absolute;
     left: 425px
+}
+
+.link-image:hover{
+    transform:scale(1.01);
 }
