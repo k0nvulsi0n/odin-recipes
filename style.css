@@ -33,14 +33,8 @@ ul {
     color: #444444;
 }
 
-#third-image {
-    position: absolute;
-    right: 9px;
-}
-
-#second-image {
-    position:absolute;
-    left: 425px
+.link-image {
+    width:398px;
 }
 
 .link-image:hover{
